@@ -1,1 +1,1 @@
-index
+console.log("Hello Git")
