@@ -1,8 +1,11 @@
 pipeline{
     agent any
-  stages{
-    steps('Running test'){
-    echo 'Test is completed'  
-    }
+    stages{
+        stage('Running test'){
+           steps{
+                echo 'Test is completed'  
+            }
+        }
+    
   }
 }
