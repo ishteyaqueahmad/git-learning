@@ -1,7 +1,7 @@
 pipeline{
     agent any
   stages{
-    stage(''Running test){
+    stage('Running test'){
     echo 'Test is completed'  
     }
   }
