@@ -44,3 +44,5 @@ The developer pushes the branch to a public remote repository.
 The developer files a pull request via remote server.
 The rest of the team reviews the code, discusses it, and alters it.
 The project maintainer merges the feature, release or hotfix into the official repository and closes the pull request.
+
+## Diffrence between the pull request fetch?
